@@ -154,6 +154,11 @@ The installation instructions and hosted demo links for all three projects are i
 
 ---
 
+---
+## Demo
+
+* [Watch the Demo on YouTube](https://youtu.be/J0KXfoDiO3M)
+* [Try the Live Demo](https://bdh-explainer.onrender.com/)
 ## Limitations and Future Scope
 
 ### Current Limitations
